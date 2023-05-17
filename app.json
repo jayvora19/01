@@ -13,23 +13,23 @@
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Bot token, Get it from @Botfather",
-            "value": ""
+            "value": "6004178116:AAGXlZx-VWry9DVw2hooFQrwmKkB8tL1uuc"
         },
         "OWNER_ID": {
             "description": "An integer of consisting of your owner ID",
-            "value": "1250450587"
+            "value": "6032060494"
         },
         "APP_ID":{
             "description": "your app id, take it from my.telegram.org",
-            "value": ""
+            "value": "26861990"
         },
         "API_HASH":{
             "description": "your api hash, take it from my.telegram.org",
-            "value": ""
+            "value": "0592761ae3a24dcf709d85ab87bc12b9"
         },
         "DATABASE_URL":{
             "description": "Database URL from https://cloud.mongodb.com/",
-            "value": ""
+            "value": "mongodb+srv://jayvora:1850@cluster.t5ql7o3.mongodb.net/?retryWrites=true&w=majority"
         },
         "IS_PUBLIC":{
             "description": "Optional: set this False, if the bot is only for admins",
@@ -43,7 +43,7 @@
         },
         "ADMINS": {
             "description": "A space separated list of user_ids of Admins, they can only create links",
-            "value": "",
+            "value": "6032060494",
             "required": false
         },
         "THUMBNAIL_URL": {
